@@ -33,7 +33,10 @@ int main (void)
 		if (input3 == 'y')
 			goto reload_system;
 		else
+		{
+			printf("Program finished\n");
 			break;
+		}
 	case'-' :
 		printf("The result of %.1f - %.1f = %.1f \n" , num1 , num2 , num1-num2);
 		printf("Do you want to do another operation? (y , n)\n");
@@ -43,7 +46,10 @@ int main (void)
 		if (input3 == 'y')
 			goto reload_system;
 		else
+		{
+			printf("Program finished\n");
 			break;
+		}
 	case'*' :
 		printf("The result of %.1f * %.1f = %.1f \n" , num1 , num2 , num1*num2);
 		printf("Do you want to do another operation? (y , n)\n");
@@ -53,7 +59,11 @@ int main (void)
 		if (input3 == 'y')
 			goto reload_system;
 		else
+		{
+			printf("Program finished\n");
 			break;
+		}
+
 	case'/' :
 		printf("The result of %.1f / %.1f = %.1f \n" , num1 , num2 , num1/num2);
 		printf("Do you want to do another operation? (y , n)\n");
@@ -63,7 +73,11 @@ int main (void)
 		if (input3 == 'y')
 			goto reload_system;
 		else
+		{
+			printf("Program finished\n");
 			break;
+		}
+
 	default:
 	{
 		printf("You Entered wrong operator do you want to try again (y , n)\n");
