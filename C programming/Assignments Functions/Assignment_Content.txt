@@ -1,0 +1,6 @@
+Assignment.1 (C program to Caculate Prime Numbers Between two Intervals by Making User-defined Function)
+Assignment.2 (C program to Calculate Factorial ofa Number Using Recursion)
+Assignment.3 (C program to Reverse a Sentence Using Recursion)
+Assignment.4 (C program to Calculate the Power of a Number Using Recursion)
+Assignment.5 (C Program to Find Name n Array Using Function.)
+Assignment.6 (C program to determine the sum of the number of holes for all of its digits)
