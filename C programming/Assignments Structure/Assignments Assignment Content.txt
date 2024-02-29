@@ -1,0 +1,5 @@
+EX 1: C Program to Store Information(name, roll and marks) of a Student Using Structure.
+EX 2: C Program to Add Two Distances (in inch-feet) System Using Structures.
+EX 3: C Program to Add Two Complex Numbers by Passing Structure to a Function.
+EX 4: C Program to Store Information of a Student Using Structure.
+EX 5: C Program to find area of a circle, passing arguments to macros.
